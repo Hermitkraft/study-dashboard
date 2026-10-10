@@ -1,6 +1,3 @@
 site_name: Student Dashboard
 theme:
   name: material
-
-plugins:
-  - ultraviolet
