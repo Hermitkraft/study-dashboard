@@ -5,6 +5,12 @@ build:
   tools:
     python: "3.10"
 
+sphinx:
+  configuration: null
+
+mkdocs:
+  configuration: mkdocs.yml
+
 python:
   install:
     - requirements: requirements.txt
